@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankitroy20040208" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitroy20040208" height="30" width="40" /></a>
+  <a href="https://whatsapp.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ankitroy20040208" height="30" width="40" /></a>
 </p>
  
 
