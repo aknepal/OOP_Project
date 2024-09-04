@@ -6,7 +6,7 @@
 ### ANKIT KUMAR YADAV 👨‍💻
   <h4 align="left">Feel Free to Contact him ☎️</h4>
 <p align="left">
-<a href="https://fb.com/https:/profile.php?id=100011610937706&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100011610937706&mibextid=ZbWKwL" height="30" width="40" /></a>
+<a href="https://fb.com/https:/profile.php?id=100011610937706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100011610937706" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitroy20040208" height="30" width="40" /></a>
   <a href="https://whatsapp.com/+9779822034108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+9779822034108" height="30" width="40" /></a>
 </p>
