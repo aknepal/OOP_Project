@@ -1,7 +1,7 @@
 # EMPLOYEE MANAGEMENT SYSTEM:
 
-- **The Employee Management System is a C++ console application that helps in managing employee records efficiently. It provides functionalities for adding, displaying, modifying, searching, and deleting employee data. Additionally, the system includes a basic login mechanism to ensure secure access.**
-# DEVELOPERS INFORMATION:
+- #### The Employee Management System is a C++ console application that helps in managing employee records efficiently. It provides functionalities for adding, displaying, modifying, searching, and deleting employee data. Additionally, the system includes a basic login mechanism to ensure secure access.**
+# DEVELOPER's INFORMATION:
 ## TEAM LEADER:
 ### ANKIT KUMAR YADAV 👨‍💻
   <h4 align="left">Feel Free to Contact him ☎️</h4>
