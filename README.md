@@ -6,9 +6,11 @@
 ### ANKIT KUMAR YADAV 👨‍💻
   <h4 align="left">Feel Free to Contact him ☎️</h4>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100011610937706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011610937706" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011610937706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100011610937706" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitroy20040208" height="30" width="40" /></a>
   <a href="https://whatsapp.com/+9779822034108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+9779822034108" height="30" width="40" /></a>
+  <a href="https://thread.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ankitroy20040208" height="30" width="40" /></a>
+  
 </p>
  
 
@@ -24,6 +26,7 @@
 <a href="https://twitter.com/kulungaman024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulungaman024" height="30" width="40" /></a>
 <a href="https://instagram.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koolungaman" height="30" width="40" /></a>
   <a href="https://github.com/aknepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aknepal" height="30" width="40" /></a>
+   <a href="https://thread.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="koolungaman" height="30" width="40" /></a>
 </p>
 
 ## FEATURES OF THE PROJECT:
