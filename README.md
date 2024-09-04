@@ -29,9 +29,6 @@
   <a href="https://github.com/aknepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aknepal" height="30" width="40" /></a>
 </p>
 
- ![large-filled-twitter](large/filled/twitter.svg)
-![large-filled-twitter-x](large/filled/twitter-x.svg)
-
 ## FEATURES OF THE PROJECT:
 ### User Authentication: 
   - **Register a new user with a name and password.**
