@@ -1,11 +1,10 @@
 # EMPLOYEE MANAGEMENT SYSTEM:
 
 - **The Employee Management System is a C++ console application that helps in managing employee records efficiently. It provides functionalities for adding, displaying, modifying, searching, and deleting employee data. Additionally, the system includes a basic login mechanism to ensure secure access.**
-
-  # DEVELOPERS INFORMATION:
-  ## TEAM LEADER:
-  ### ANKIT KUMAR YADAV 👨‍💻
-  <h4 align="left">Feel Free to Contact him 📞</h4>
+# DEVELOPERS INFORMATION:
+## TEAM LEADER:
+### ANKIT KUMAR YADAV 👨‍💻
+  <h4 align="left">Feel Free to Contact him ☎️</h4>
 <p align="left">
 <a href="https://fb.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankitroy20040208" height="30" width="40" /></a>
 <a href="https://instagram.com/ankitroy20040208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitroy20040208" height="30" width="40" /></a>
@@ -26,6 +25,7 @@
 <a href="https://instagram.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koolungaman" height="30" width="40" /></a>
   <a href="https://github.com/aknepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aknepal" height="30" width="40" /></a>
 </p>
+
 ## FEATURES:
 ### User Authentication: 
   - **Register a new user with a name and password.**
