@@ -24,7 +24,7 @@
   <h4 align="left">You can also consult Him 🥰:</h4>
 <p align="left">
   <a href="https://whatsapp.com/+9779825702055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+9779825702055" height="30" width="40" /></a>
-<a href="https://twiter.com/kulungaman024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twiter.svg" alt="kulungaman024" height="30" width="40" /></a>
+<a href="https://twitter.com/kulungaman024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulungaman024" height="30" width="40" /></a>
 <a href="https://instagram.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koolungaman" height="30" width="40" /></a>
   <a href="https://github.com/aknepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aknepal" height="30" width="40" /></a>
 </p>
