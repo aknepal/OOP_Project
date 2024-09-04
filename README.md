@@ -12,7 +12,7 @@
   - **Register a new user with a name and password.**
   - **Login with a username and password to access the system.**
 
-- ### Employee Record Management:
+  ### Employee Record Management:
   - **Add New Employee**: Insert a new employee's details, including name, ID, designation, age, salary, and experience.
   - **Display Employees**: View all employee records stored in the system.
   - **Modify Employee**: Update details of an existing employee based on their ID.
